@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/36e5b8e4-e75c-4b5c-8975-7b56f8f870e8" width="80%" alt="Sohrab Banner" />
+  <img src="assets/banner.png" width="80%" alt="Sohrab Banner" />
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@ export const Sohrab = {
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohrab300&theme=dark&hide_border=true&stroke=58a6ff&background=0D1117" height="165" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sohrab300&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff" height="165" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sohrab300&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff" height="165" />
       </td>
     </tr>
   </table>
