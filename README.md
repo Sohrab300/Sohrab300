@@ -1,164 +1,127 @@
-<div align="center">
 
-<!-- Header Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=200&section=header&text=Sohrab%20Sheikh&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=20&descColor=8b949e)
-
-<!-- Minecraft-style Banner or similar aesthetic image -->
-<img src="https://github-user-contents.githubusercontent.com/assets/114421295/36e5b8e4-e75c-4b5c-8975-7b56f8f870e8" width="100%" />
-
-# Full-Stack Developer
-
-<!-- Profile & Portfolio Buttons -->
 <p align="center">
-  <a href="https://github.com/Sohrab300">
-    <img src="https://img.shields.io/badge/PROFILE_VIEWS-211A2C?style=for-the-badge&logo=github&logoColor=C696F8" alt="Profile Views" />
+  <img src="https://github.com/user-attachments/assets/36e5b8e4-e75c-4b5c-8975-7b56f8f870e8" width="80%" alt="Sohrab Banner" />
+</p>
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=Full-Stack+Architect;Performance+Obsessed;Automation+Enthusiast;Ship+fast.+Refactor+often." alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sohrab300&style=for-the-badge&color=238636&label=VISITORS" alt="Profile Views" />
   <a href="https://sohrab300.github.io/3D-portfolio/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-6E438A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Explorer-Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
-<!-- Separator -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Iraj259/Iraj259/main/assets/separator.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
 
-### 💟 src/pages/AboutMe.tsx 💟
 
-</div>
+<h2 align="center">⚡ main/identity.ts ⚡</h2>
 
-```ts
-const developer = {
-  name:     "Sohrab Sheikh",
-  location: "Jodhpur, Rajasthan 🇮🇳",
+```typescript
+/**
+ * @profile Sohrab Sheikh
+ * @location Jodhpur, Rajasthan 🇮🇳 (The Blue City)
+ */
+export const Sohrab = {
   role:     "Full-Stack Developer",
-
-  focus: [
-    "Building clean, scalable web applications",
-    "REST APIs & real-time systems",
-    "Developer tooling & automation",
-  ],
-
-  stack: {
-    frontend:  ["React", "Next.js", "TypeScript"],
-    backend:   ["Node.js", "Express", "Python", "FastAPI"],
-    databases: ["PostgreSQL", "MongoDB"],
-    tools:     ["Git", "Docker", "VS Code"],
-  },
-
-  motto: "Ship fast. Refactor often. Never stop learning.",
+  mission:  "Architecting high-performance web ecosystems",
+  focus:    ["Scalable Microservices", "Real-time Communication", "Developer Productivity"],
+  motto:    "Ship fast. Refactor often. Never stop learning.",
+  current:  "Exploring the intersection of Agentic AI and DevOps"
 };
 ```
 
+
+<h2 align="center">⚡ core/tech-stack.ts ⚡</h2>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>Backend</b></td>
+    <td align="center"><b>Data & Infrastructure</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css&perline=3" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,js&perline=3" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,vscode,github&perline=3" />
+    </td>
+  </tr>
+</table>
+
+
+<h2 align="center">⚡ services/observability.json ⚡</h2>
+
 <div align="center">
-
-<!-- Separator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Iraj259/Iraj259/main/assets/separator.svg" width="100%" />
-</p>
-
-### 💟 src/pages/TechStack.tsx 💟
-
-<!-- Using Skill Icons for the grid look -->
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,git,nodejs,express,py,fastapi,postgres,mongodb,docker,vscode&perline=8)](https://skillicons.dev)
-
-<!-- Separator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Iraj259/Iraj259/main/assets/separator.svg" width="100%" />
-</p>
-
-### 💟 src/pages/OnMyRadar.tsx 💟
-
-<!-- On My Radar section with labels -->
-| ☁️ Cloud & DevOps | 🤖 Agentic AI | 🎨 UI/UX Design |
-| :--- | :--- | :--- |
-| ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white) | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-| ![GitHub Actions](https://img.shields.io/badge/GH%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-
-<!-- Separator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Iraj259/Iraj259/main/assets/separator.svg" width="100%" />
-</p>
-
-### 💟 src/pages/Stats.tsx 💟
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sohrab300&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohrab300&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohrab300&theme=tokyonight&hide_border=true&background=0D1117" height="150" />
-</p>
-
-<!-- Separator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Iraj259/Iraj259/main/assets/separator.svg" width="100%" />
-</p>
-
-### 💟 src/pages/Contributions.tsx 💟
-
-![Snake animation](https://raw.githubusercontent.com/Sohrab300/Sohrab300/output/github-contribution-grid-snake-dark.svg)
-
-<!-- Separator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Iraj259/Iraj259/main/assets/separator.svg" width="100%" />
-</p>
-
-### 💟 src/pages/WhoAmI.tsx 💟
-
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohrab300&theme=dark&hide_border=true&stroke=58a6ff&background=0D1117" height="165" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Sohrab300&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff" height="165" />
+      </td>
+    </tr>
+  </table>
 </div>
 
+
+<h2 align="center">⚡ scripts/contribution-graph.py ⚡</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sohrab300/Sohrab300/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sohrab300/Sohrab300/output/github-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Sohrab300/Sohrab300/output/github-snake.svg" />
+  </picture>
+</p>
+
+
+<h2 align="center">⚡ logs/system-stats.log ⚡</h2>
+
 ```bash
-$ cat about.sh
+[SYSTEM INFO]
+User: sohrab@jodhpur
+Interest: ⚡ Full-stack | 🧩 Optimization | 🌱 AI Agents
 
-NAME="Sohrab Sheikh"
-LOCATION="Jodhpur, Rajasthan 🇮🇳"
-
-INTERESTS=(
-  "⚡ Full-stack web development"
-  "🧩 Problem solving & system design"
-  "🌱 Currently exploring: Agentic AI & DevOps"
-)
-
-FACTS=(
-  "🔨 Best code gets written after midnight"
-  "🤝 Open to: freelance, full-time & collaboration"
-  "📬 Reach me: see contact section below"
-)
+[PERSONAL FACTS]
+- 🔨 Peak productivity happens after 12:00 AM.
+- 🤝 Open for: High-impact collaborations & freelance projects.
+- 📍 Based in Jodhpur, Rajasthan (Home of the Mehrangarh Fort).
 ```
 
-<div align="center">
 
-<!-- Separator -->
+<h2 align="center">⚡ config/philosophy.txt ⚡</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Iraj259/Iraj259/main/assets/separator.svg" width="100%" />
+  <em><strong>"First, solve the problem. Then, write the code."</strong></em>
 </p>
 
-### 💟 src/pages/Quote.tsx 💟
 
-*"First, solve the problem. Then, write the code."*
-
-<!-- Separator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Iraj259/Iraj259/main/assets/separator.svg" width="100%" />
-</p>
-
-### 💟 src/pages/ContactMe.tsx 💟
+<h2 align="center">⚡ api/v1/contact.http ⚡</h2>
 
 <p align="center">
   <a href="mailto:sheikhsohrab618@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sohrab-sheikh-139166249/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://sohrab300.github.io/3D-portfolio/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/Sohrab300">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=vercel&logoColor=61DAFB" />
   </a>
 </p>
 
-<!-- Footer Banner -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=100&section=footer)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</p>
